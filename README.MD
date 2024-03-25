@@ -1,6 +1,6 @@
 # horseorhuman
 
-* I have built three models to classify horse or human from the freely available dataset on tensorflow called "horseorhuman"
+* I have built three CNN models to classify horse or human from the freely available dataset on tensorflow called "horseorhuman"
 * They are built in python using Tensorflow libraries
 * This dataset contains 1027 training images and 256 test images.
 * Images are of dimensions 300 x 300 x 3
