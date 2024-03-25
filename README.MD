@@ -29,7 +29,7 @@
 
 ### model1 vs model2 
 
-![Alt text]( "model1 vs model2")
+![alt text]()
 
 ## model3 
 
@@ -47,7 +47,7 @@
 
 ### model3 performance
 
-![Alt text]( "model3")
+![alt text]()
 
 
 ## Remarks 
