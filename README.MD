@@ -29,7 +29,10 @@
 
 ### model1 vs model2 
 
-![alt text](https://github.com/elsiery/horseorhuman/blob/main/final_comparision_between%20models%201%262.png)
+![alt text](https://github.com/elsiery/horseorhuman/blob/main/Accuracy.png)
+
+
+![alt text](https://github.com/elsiery/horseorhuman/blob/main/Loss.png)
 
 ## model3 
 
