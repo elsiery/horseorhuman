@@ -29,7 +29,7 @@
 
 ### model1 vs model2 
 
-![alt text]()
+![alt text](https://github.com/elsiery/horseorhuman/blob/main/final_comparision_between%20models%201%262.png)
 
 ## model3 
 
@@ -47,7 +47,7 @@
 
 ### model3 performance
 
-![alt text]()
+![alt text](https://github.com/elsiery/horseorhuman/blob/main/model3.png)
 
 
 ## Remarks 
