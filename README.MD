@@ -13,7 +13,7 @@
 
 | Training accuracy | Training loss | Test accuracy | Test loss |
 |-------------------|---------------|---------------|-----------|
-|      100 %        |   2.2447e-04  |     90.62 %   |   2.5270  |
+|      100 %        |   4.05e-05    |     90.23 %   |   3.8     |
 
 
 ## model2
@@ -22,7 +22,7 @@
 
 | Training accuracy | Training loss | Test accuracy | Test loss |
 |-------------------|---------------|---------------|-----------|
-|      99.9 %       |    0.0102     |     76.95 %   |   2.6     |
+|      98.8 %       |    0.03       |     92.97 %   |   0.45    |
 
 
 * Both are run on Epochs = 100
@@ -42,7 +42,7 @@
 
 | Training accuracy | Training loss | Test accuracy | Test loss |
 |-------------------|---------------|---------------|-----------|
-|      99.8 %       |    0.01       |     100 %     |   0.005   |
+|      99.6 %       |    0.01       |     100 %     |   0.003   |
 
 
 ### model3 performance
